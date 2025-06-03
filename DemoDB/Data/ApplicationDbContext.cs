@@ -11,6 +11,6 @@ namespace DemoDB.Data
         {
         }
 
-        public DbSet<Employee> Employees { get; set; }
+        
     }
 }
